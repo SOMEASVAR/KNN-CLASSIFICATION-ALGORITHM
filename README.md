@@ -6,7 +6,6 @@
 ## Equipments Required:
 1. Hardware – PCs
 2. Anaconda – Python 3.7 Installation / Moodle-Code Runner /Google Colab
-
 ## Related Theory Concept:
 K-nearest neighbors (KNN) algorithm is a type of supervised ML algorithm which can be used for both classification as well as regression predictive problems. However, it is mainly used for classification predictive problems in industry. The following two properties would define KNN well −
 
@@ -19,7 +18,10 @@ Non-parametric learning algorithm − KNN is also a non-parametric learning algo
 2. Preprocess the data by converting the string column to integer column and then rescale it.
 3. Determine the min and Max values for each columns and then split the dataset into k folds.
 4. Calculate the Euclidean distance between two vectors and then print the accuracy of our model.
-
+<br></br>
+<br></br>
+<br></br>
+<br></br>
 ## Program:
 ```
 Program to implement KNN classification algorithm.
